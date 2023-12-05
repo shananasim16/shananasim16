@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently gaining skill on **Javascript** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/shananasim16](https://github.com/shananasim16)
+- 👨‍💻 All of my projects are available at [https://github.com/nasimshana02](https://github.com/nasimshana02)
 
 - 💬 Ask me about **HTML,CSS, Javascript, Java**
 
@@ -21,6 +21,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=java&logoColor=%23F7DF1E).
 
 #### 👨‍💻 Software and tools :
 
@@ -28,6 +29,7 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-F05033.svg?logo=notion&logoColor=white"></a>
 </p>
 
 
